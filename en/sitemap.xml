@@ -2,276 +2,276 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jianx-gao.github.io/en/talk/example-talk/</loc>
+    <loc>/en/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jianx-gao.github.io/talk/example-talk/"
+                href="/talk/example-talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jianx-gao.github.io/en/talk/example-talk/"
+                href="/en/talk/example-talk/"
                 />
   </url><url>
-    <loc>https://jianx-gao.github.io/en/</loc>
+    <loc>/en/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jianx-gao.github.io/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jianx-gao.github.io/en/"
+                href="/en/"
                 />
   </url><url>
-    <loc>https://jianx-gao.github.io/en/event/</loc>
+    <loc>/en/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jianx-gao.github.io/event/"
+                href="/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jianx-gao.github.io/en/event/"
+                href="/en/event/"
                 />
   </url><url>
-    <loc>https://jianx-gao.github.io/en/tag/academic/</loc>
+    <loc>/en/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jianx-gao.github.io/tag/academic/"
+                href="/tag/academic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jianx-gao.github.io/en/tag/academic/"
+                href="/en/tag/academic/"
                 />
   </url><url>
-    <loc>https://jianx-gao.github.io/en/categories/</loc>
+    <loc>/en/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jianx-gao.github.io/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jianx-gao.github.io/en/categories/"
+                href="/en/categories/"
                 />
   </url><url>
-    <loc>https://jianx-gao.github.io/en/category/demo/</loc>
+    <loc>/en/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jianx-gao.github.io/category/demo/"
+                href="/category/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jianx-gao.github.io/en/category/demo/"
+                href="/en/category/demo/"
                 />
   </url><url>
-    <loc>https://jianx-gao.github.io/en/post/</loc>
+    <loc>/en/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jianx-gao.github.io/post/"
+                href="/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jianx-gao.github.io/en/post/"
+                href="/en/post/"
                 />
   </url><url>
-    <loc>https://jianx-gao.github.io/en/tags/</loc>
+    <loc>/en/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jianx-gao.github.io/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jianx-gao.github.io/en/tags/"
+                href="/en/tags/"
                 />
   </url><url>
-    <loc>https://jianx-gao.github.io/en/post/getting-started/</loc>
+    <loc>/en/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jianx-gao.github.io/post/getting-started/"
+                href="/post/getting-started/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jianx-gao.github.io/en/post/getting-started/"
+                href="/en/post/getting-started/"
                 />
   </url><url>
-    <loc>https://jianx-gao.github.io/en/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>/en/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jianx-gao.github.io/tag/%E5%BC%80%E6%BA%90/"
+                href="/tag/%E5%BC%80%E6%BA%90/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jianx-gao.github.io/en/tag/%E5%BC%80%E6%BA%90/"
+                href="/en/tag/%E5%BC%80%E6%BA%90/"
                 />
   </url><url>
-    <loc>https://jianx-gao.github.io/en/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>/en/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jianx-gao.github.io/category/%E6%95%99%E7%A8%8B/"
+                href="/category/%E6%95%99%E7%A8%8B/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jianx-gao.github.io/en/category/%E6%95%99%E7%A8%8B/"
+                href="/en/category/%E6%95%99%E7%A8%8B/"
                 />
   </url><url>
-    <loc>https://jianx-gao.github.io/en/slides/</loc>
+    <loc>/en/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jianx-gao.github.io/slides/"
+                href="/slides/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jianx-gao.github.io/en/slides/"
+                href="/en/slides/"
                 />
   </url><url>
-    <loc>https://jianx-gao.github.io/en/slides/example/</loc>
+    <loc>/en/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jianx-gao.github.io/slides/example/"
+                href="/slides/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jianx-gao.github.io/en/slides/example/"
+                href="/en/slides/example/"
                 />
   </url><url>
-    <loc>https://jianx-gao.github.io/en/tag/deep-learning/</loc>
+    <loc>/en/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jianx-gao.github.io/tag/deep-learning/"
+                href="/tag/deep-learning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jianx-gao.github.io/en/tag/deep-learning/"
+                href="/en/tag/deep-learning/"
                 />
   </url><url>
-    <loc>https://jianx-gao.github.io/en/project/example/</loc>
+    <loc>/en/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jianx-gao.github.io/project/example/"
+                href="/project/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jianx-gao.github.io/en/project/example/"
+                href="/en/project/example/"
                 />
   </url><url>
-    <loc>https://jianx-gao.github.io/en/project/</loc>
+    <loc>/en/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jianx-gao.github.io/project/"
+                href="/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jianx-gao.github.io/en/project/"
+                href="/en/project/"
                 />
   </url><url>
-    <loc>https://jianx-gao.github.io/en/publication-type/1/</loc>
+    <loc>/en/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jianx-gao.github.io/publication-type/1/"
+                href="/publication-type/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jianx-gao.github.io/en/publication-type/1/"
+                href="/en/publication-type/1/"
                 />
   </url><url>
-    <loc>https://jianx-gao.github.io/en/publication/example/</loc>
+    <loc>/en/publication/example/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jianx-gao.github.io/publication/example/"
+                href="/publication/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jianx-gao.github.io/en/publication/example/"
+                href="/en/publication/example/"
                 />
   </url><url>
-    <loc>https://jianx-gao.github.io/en/publication_types/</loc>
+    <loc>/en/publication_types/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jianx-gao.github.io/publication_types/"
+                href="/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jianx-gao.github.io/en/publication_types/"
+                href="/en/publication_types/"
                 />
   </url><url>
-    <loc>https://jianx-gao.github.io/en/publication/</loc>
+    <loc>/en/publication/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jianx-gao.github.io/publication/"
+                href="/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jianx-gao.github.io/en/publication/"
+                href="/en/publication/"
                 />
   </url><url>
-    <loc>https://jianx-gao.github.io/en/admin/</loc>
+    <loc>/en/admin/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jianx-gao.github.io/admin/"
+                href="/admin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jianx-gao.github.io/en/admin/"
+                href="/en/admin/"
                 />
   </url>
 </urlset>
