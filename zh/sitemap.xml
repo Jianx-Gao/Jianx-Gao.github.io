@@ -93,6 +93,18 @@
                 href="/project/example/"
                 />
   </url><url>
+    <loc>/project/example4/</loc>
+    <lastmod>2020-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/demo/</loc>
+    <lastmod>2020-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/example2/</loc>
+    <lastmod>2020-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/example3/</loc>
+    <lastmod>2020-12-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -209,12 +221,6 @@
                 hreflang="zh"
                 href="/slides/example/"
                 />
-  </url><url>
-    <loc>/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/example2/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/research/example2/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
