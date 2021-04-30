@@ -41,6 +41,58 @@
                 href="/event/"
                 />
   </url><url>
+    <loc>/tag/deep-learning/</loc>
+    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/deep-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/tag/deep-learning/"
+                />
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/project/"
+                />
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/tags/"
+                />
+  </url><url>
+    <loc>/project/example/</loc>
+    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/project/example/"
+                />
+  </url><url>
     <loc>/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -91,19 +143,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/post/"
-                />
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/tags/"
                 />
   </url><url>
     <loc>/post/getting-started/</loc>
@@ -171,56 +210,17 @@
                 href="/slides/example/"
                 />
   </url><url>
-    <loc>/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/deep-learning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/tag/deep-learning/"
-                />
-  </url><url>
     <loc>/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/example2/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/project/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/project/example/"
-                />
-  </url><url>
     <loc>/research/example2/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/research/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/project/"
-                />
   </url><url>
     <loc>/research/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
