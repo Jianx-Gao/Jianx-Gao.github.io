@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ML | Jx-Gao</title>
+    <link>/tag/ml/</link>
+      <atom:link href="/tag/ml/index.xml" rel="self" type="application/rss+xml" />
+    <description>ML</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 18 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>ML</title>
+      <link>/tag/ml/</link>
+    </image>
+    
+    <item>
+      <title>C语言手撕机器学习算法</title>
+      <link>/project/example4/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/project/example4/</guid>
+      <description>&lt;p&gt;3&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>基于ECG信号的情绪识别算法</title>
+      <link>/project/example2/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/project/example2/</guid>
+      <description>&lt;p&gt;1&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
