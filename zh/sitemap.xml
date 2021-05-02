@@ -41,18 +41,8 @@
                 href="/event/"
                 />
   </url><url>
-    <loc>/tag/deep-learning/</loc>
+    <loc>/tag/medicine-big-data/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/deep-learning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/tag/deep-learning/"
-                />
   </url><url>
     <loc>/project/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
@@ -67,18 +57,8 @@
                 href="/project/"
                 />
   </url><url>
-    <loc>/project/example/</loc>
+    <loc>/project/rasberry/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/project/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/project/example/"
-                />
   </url><url>
     <loc>/tags/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
@@ -96,16 +76,19 @@
     <loc>/tag/cv/</loc>
     <lastmod>2020-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/example4/</loc>
+    <loc>/project/c_machine_learning/</loc>
     <lastmod>2020-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/ml/</loc>
+    <loc>/tag/others/</loc>
     <lastmod>2020-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/example2/</loc>
+    <loc>/project/hiit_har/</loc>
     <lastmod>2020-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/example3/</loc>
+    <loc>/project/ecg_motion/</loc>
+    <lastmod>2020-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/king_scan/</loc>
     <lastmod>2020-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/academic/</loc>
@@ -223,6 +206,19 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/slides/example/"
+                />
+  </url><url>
+    <loc>/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/deep-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/tag/deep-learning/"
                 />
   </url><url>
     <loc>/tag/demo/</loc>
